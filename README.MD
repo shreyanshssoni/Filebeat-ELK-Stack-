@@ -7,3 +7,10 @@ Steps:
 2)Selectc the output for logstash or elasticsearch and their port numbers
 3)Change es template if needed.
 4)For run apply comman from filebeat directory:   ./filebeat
+
+
+NOTE:
+Please refer filebeat.yml if facing error of ILM POLICY.
+Please Take care of version Compatibility.
+
+Refer Inexture Dev server and (http://103.107.26.2:5601/app/home#/)Kibana for visulization
